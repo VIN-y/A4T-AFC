@@ -64,7 +64,7 @@ These are to come, please bear with me. Some stuff when installing are tight, I 
 
 ### Credits
 * Thanks to everyone that supported my last project/mod.
-* Thanks to DW-Tas for all the help provided.
+* Thanks to DW-Tas for all the help provided and for designing A4T.
 
 Go support the guys over at <a href="https://github.com/Armchair-Heavy-Industries">Armchair Heavy Industries</a> as they are making some awesome stuff over there!
 
