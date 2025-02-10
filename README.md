@@ -15,7 +15,7 @@ A filament cutter mod designed around the A4T that is designed by DW-Tas. Focuse
 
 > [!NOTE] 
 > ### Total WIP<br/>
-> This mod is still a WIP and some things may change, most changes will be minor.<br/>
+> This mod is still a WIP and some things may change, most changes will be minor. Also the CAD will come out later.<br/>
 
 <br/><br/>
 
