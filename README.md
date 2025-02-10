@@ -3,7 +3,7 @@
 # A4T-AFC: [A]nother [4]010 [T]oolhead - [A]nother [F]ilament [C]utter
 A toolhead cutter mod from: [![ko-fi](docs/images/Ko-fi_smol.png)](https://ko-fi.com/southash1) [SouthAsh1](https://ko-fi.com/southash1)
 
-[![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/armchairengineeringsux)
+
 
 <img src='docs/images/main_render.png' width=800 />
 
