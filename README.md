@@ -5,7 +5,7 @@ A toolhead cutter mod from: [![ko-fi](docs/images/Ko-fi_smol.png)](https://ko-fi
 
 [![Join me on Discord](https://discord.com/api/guilds/1029426383614648421/widget.png?style=banner2)](https://discord.gg/armchairengineeringsux)
 
-<img src='' width=800 />
+<img src='main_render.png' width=800 />
 
 
 <br/> 
