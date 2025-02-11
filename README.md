@@ -41,7 +41,9 @@ A filament cutter mod designed around the A4T that is designed by DW-Tas. Focuse
 | 2   | M3 x 6 BHCS                                   | To attach the `Cutter Arm` and `Blade Holder` to the cowl.|
 | 5   | M3 Threaded Heat Insert                       | Standard Voron spec: M3 x 5 x 4|
 | 2   | M5 x 10 BHCS                                  | For attaching the `Depressor Arm Base`|
-| 2   | M3 x 10 BHCS / SHCS & 2 Washers               | To attach the `Depressor Arm` to the base.
+| 2   | M3 x 10 BHCS / SHCS & 2 Washers               | To attach the `Depressor Arm` to the base.|
+|     | **OPTIONAL**
+| 4   | M2.5 x 8 FHCS                                 | To mount the hotend for ONLY the UHF options.|
 
 
 ## Printing parts
