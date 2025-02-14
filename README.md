@@ -38,7 +38,7 @@ A filament cutter mod designed around the A4T that is designed by DW-Tas. Focuse
 | 2   | M2 `Flange` Heatsets                          | This is the bread and butter of tolerances for the build. (<a href="https://www.digikey.com/en/products/detail/tri-star-industries-inc/HM20X157C/14205393">Digikey</a>) (<a href="https://www.aliexpress.us/item/3256805733805809.html">Ali Express</a>)|
 | 1   | M3 x 6 SHCS                                   | Holds the Bridge on.|
 | 2   | M3 x 4 BHCS                                   | For the `Link` between the `Cutter Arm` and `Blade Holder`.|
-| 2   | M3 x 6 BHCS                                   | To attach the `Cutter Arm` and `Blade Holder` to the cowl.|
+| 2   | M3 x 8 BHCS                                   | To attach the `Cutter Arm` and `Blade Holder` to the cowl.|
 | 5   | M3 Threaded Heat Insert                       | Standard Voron spec: M3 x 5 x 4|
 | 2   | M5 x 10 BHCS                                  | For attaching the `Depressor Arm Base`|
 | 2   | M3 x 10 BHCS / SHCS & 2 Washers               | To attach the `Depressor Arm` to the base.|
@@ -61,7 +61,32 @@ The print setup was tested with 0.5mm nozzle printing 0.55mm line widths with 3 
 ## Assembly
 ### Assembly Steps
 
-These are to come, please bear with me. Some stuff when installing are tight, I know they are on purpose. All will be explained once the instructions are done.
+
+These istructions should be followed in conjunction with original <a href="https://github.com/Armchair-Heavy-Industries/A4T">A4T instructions</a>.
+
+:information_source: CW2 and Tap users have to build the toolhead on the printer, Xol Carriage users can build off the printer.
+| <center>Notes</center>                                                                                                | Images|
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+| Prep the M2 inserts for install by drilling them out with a 5/16 or 2mm Drill Bit, then in one of them chamfer the top and the other chamfer the bottom. | <img src='docs/images/m2_drilled.png' width=250><br/> |
+| **Preping the Blade Holder** |
+| Start by using a pair of vise grips, a pair of pliars, or a vise that can firmly grasp the blade and prevent it from moving. | <img src='docs/images/blade_grasp.png' width=250><br/> |
+| Next, using flush cutters, cut the tab on the back `flying parts` and start triming the plastic off one side. | <img src='docs/images/trimming_plastic.png' width=250><br/> |
+| When you get enough plastic off one side then the other side can just be pulled off then you will get a clean blade ready for install. | <img src='docs/images/clean_blade.png' width=250><br/> |
+| There are alternate types of Bambu blades that may differ depending on where on the globe you buy them on, they will still work. | <img src='docs/images/alternate_blade.png' width=250><br/> |
+| With the blade still in the vise grips, slide it into the Blade Holder slightly at an angle. It will be tight but that is by design. With a little bit of the blade sticking out the back, install the M2 FHCS making sure you don't overtighten as it's going into plastic. | <img src='docs/images/blade_install.png' width=250><br/> |
+| **Preping the Bridge** |
+| Install the M2 insert that is chamfered on the bottom into the Bridge. | <img src='docs/images/m2_bridge.png' width=250><br/> |
+| **Cutter Install** |
+| Before installing, CW2 and Tap users need to install the cowl to the carriage now. |
+| UHF users will need to use `M2.5x8 FHCS` to install the hotend. |
+| Insert the M3 inserts | <img src='docs/images/m3_inserts.png' width=250><br/> |
+| Insert the M2 insert that is chamfered on the top into the cowl making it flush with the surface. | <img src='docs/images/m2_cowl.png' width=250><br/> |
+| Carefully install the Blade Holder with an `M3x8 BHCS`. | <img src='docs/images/blade_holder.png' width=250><br/> |
+| Install the Cutter Arm with again with an `M3x8 BHCS`. | <img src='docs/images/cutter_bar.png' width=250><br/> |
+| Install the Link with 2 `M3x4 BHCS`, loosening the screws where needed to allow the parts to freely move. | <img src='docs/images/link.png' width=250><br/> |
+| Place the bridge in, securing it with the `M3x6 SHCS` insure that this is tightened down very well. | <img src='docs/images/bridge.png' width=250><br/> |
+| Using some tweasers install the spring, being sure to secure the ends into the holes. Test out the mechanism to make sure it resets with no binding. | <img src='docs/images/spring.png' width=250><br/> |
+| Last the Extruder adapter can be installed and the rest of A4T instructions can be continued. | <img src='docs/images/extruder_adapter.png' width=250><br/> |
 
 <br>
 
