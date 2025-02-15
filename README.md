@@ -67,26 +67,26 @@ These istructions should be followed in conjunction with original <a href="https
 :information_source: CW2 and Tap users have to build the toolhead on the printer, Xol Carriage users can build off the printer.
 | <center>Notes</center>                                                                                                | Images|
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
-| Prep the M2 inserts for install by drilling them out with a 5/16 or 2mm Drill Bit, then in one of them chamfer the top and the other chamfer the bottom. | <img src='docs/images/m2_drilled.png' width=350><br/> |
+| Prep the M2 inserts for install by drilling them out with a 5/16 or 2mm Drill Bit, then in one of them chamfer the top and the other chamfer the bottom. | <img src='docs/images/m2_drilled.png' width=650><br/> |
 | **Preping the Blade Holder** |
-| Start by using a pair of vise grips, a pair of pliars, or a vise that can firmly grasp the blade and prevent it from moving. | <img src='docs/images/blade_grasp.png' width=350><br/> |
-| Next, using flush cutters, cut the tab on the back `flying parts` and start triming the plastic off one side. | <img src='docs/images/trimming_plastic.png' width=350><br/> |
-| When you get enough plastic off one side then the other side can just be pulled off then you will get a clean blade ready for install. | <img src='docs/images/clean_blade.png' width=350><br/> |
+| Start by using a pair of vise grips, a pair of pliars, or a vise that can firmly grasp the blade and prevent it from moving. | <img src='docs/images/blade_grasp.png' width=650><br/> |
+| Next, using flush cutters, cut the tab on the back `flying parts` and start triming the plastic off one side. | <img src='docs/images/trimming_plastic.png' width=650><br/> |
+| When you get enough plastic off one side then the other side can just be pulled off then you will get a clean blade ready for install. | <img src='docs/images/clean_blade.png' width=650><br/> |
 | There are alternate types of Bambu blades that may differ depending on where on the globe you buy them on, they will still work. | <img src='docs/images/alternate_blade.png' width=250><br/> |
-| With the blade still in the vise grips, slide it into the Blade Holder slightly at an angle. It will be tight but that is by design. With a little bit of the blade sticking out the back, install the M2 FHCS making sure you don't overtighten as it's going into plastic. | <img src='docs/images/blade_install.png' width=350><br/> |
+| With the blade still in the vise grips, slide it into the Blade Holder slightly at an angle. It will be tight but that is by design. With a little bit of the blade sticking out the back, install the M2 FHCS making sure you don't overtighten as it's going into plastic. | <img src='docs/images/blade_install.png' width=650><br/> |
 | **Preping the Bridge** |
-| Install the M2 insert that is chamfered on the bottom into the Bridge. | <img src='docs/images/m2_bridge.png' width=350><br/> |
+| Install the M2 insert that is chamfered on the bottom into the Bridge. | <img src='docs/images/m2_bridge.png' width=650><br/> |
 | **Cutter Install** |
 | Before installing, CW2 and Tap users need to install the cowl to the carriage now. |
 | UHF users will need to use `M2.5x8 FHCS` to install the hotend. |
-| Insert the M3 inserts | <img src='docs/images/m3_inserts.png' width=350><br/> |
-| Insert the M2 insert that is chamfered on the top into the cowl making it flush with the surface. | <img src='docs/images/m2_cowl.png' width=350><br/> |
-| Carefully install the Blade Holder with an `M3x8 BHCS`. | <img src='docs/images/blade_holder.png' width=350><br/> |
-| Install the Cutter Arm with again with an `M3x8 BHCS`. | <img src='docs/images/cutter_bar.png' width=350><br/> |
-| Install the Link with 2 `M3x4 BHCS`, loosening the screws where needed to allow the parts to freely move. | <img src='docs/images/link.png' width=350><br/> |
-| Place the bridge in, securing it with the `M3x6 SHCS` insure that this is tightened down very well. | <img src='docs/images/bridge.png' width=350><br/> |
-| Using some tweasers install the spring, being sure to secure the ends into the holes. Test out the mechanism to make sure it resets with no binding. | <img src='docs/images/spring.png' width=350><br/> |
-| Last the Extruder adapter can be installed and the rest of A4T instructions can be continued. | <img src='docs/images/extruder_adapter.png' width=350><br/> |
+| Insert the M3 inserts | <img src='docs/images/m3_inserts.png' width=650><br/> |
+| Insert the M2 insert that is chamfered on the top into the cowl making it flush with the surface. | <img src='docs/images/m2_cowl.png' width=650><br/> |
+| Carefully install the Blade Holder with an `M3x8 BHCS`. | <img src='docs/images/blade_holder.png' width=650><br/> |
+| Install the Cutter Arm with again with an `M3x8 BHCS`. | <img src='docs/images/cutter_bar.png' width=650><br/> |
+| Install the Link with 2 `M3x4 BHCS`, loosening the screws where needed to allow the parts to freely move. | <img src='docs/images/link.png' width=650><br/> |
+| Place the bridge in, securing it with the `M3x6 SHCS` insure that this is tightened down very well. | <img src='docs/images/bridge.png' width=650><br/> |
+| Using some tweasers install the spring, being sure to secure the ends into the holes. Test out the mechanism to make sure it resets with no binding. | <img src='docs/images/spring.png' width=650><br/> |
+| Last the Extruder adapter can be installed and the rest of A4T instructions can be continued. | <img src='docs/images/extruder_adapter.png' width=650><br/> |
 
 <br>
 
