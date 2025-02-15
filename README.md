@@ -67,7 +67,7 @@ These istructions should be followed in conjunction with original <a href="https
 :information_source: CW2 and Tap users have to build the toolhead on the printer, Xol Carriage users can build off the printer.
 | <center>Notes</center>                                                                                                | Images|
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
-| Prep the M2 inserts for install by drilling them out with a 5/16 or 2mm Drill Bit, then in one of them chamfer the top and the other chamfer the bottom. | <img src='docs/images/m2_drilled.png' width=650><br/> |
+| Prep the M2 inserts for install by drilling them out with a 5/64 or 2mm Drill Bit, then in one of them chamfer the top and the other chamfer the bottom. | <img src='docs/images/m2_drilled.png' width=650><br/> |
 | **Preping the Blade Holder** |
 | Start by using a pair of vise grips, a pair of pliars, or a vise that can firmly grasp the blade and prevent it from moving. | <img src='docs/images/blade_grasp.png' width=650><br/> |
 | Next, using flush cutters, cut the tab on the back `flying parts` and start triming the plastic off one side. | <img src='docs/images/trimming_plastic.png' width=650><br/> |
