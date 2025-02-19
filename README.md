@@ -55,7 +55,7 @@ The parts are not pre-scaled for any particular filament type. You will need to 
 General voron-like settings are a good starting point for 0.4mm wall widths (four walls, 5 top/bottom layers and 40% infill).<br/>
 The print setup was tested with 0.5mm nozzle printing 0.55mm line widths with 3 walls and 40% infill with good results.<br/>
 
-⚠If you have any under-extrusion you will have problems with the parts stretching and mot keeping rigidity.⚠
+⚠ If you have any under-extrusion you will have problems with the parts stretching and not keeping rigidity. ⚠
 
 (Same rules of A4T applies here so I kind of copied and pasted, sue me...)
 
