@@ -43,7 +43,7 @@ A filament cutter mod designed around the A4T that is designed by DW-Tas. Focuse
 | 2   | M5 x 10 BHCS                                  | For attaching the `Depressor Arm Base`|
 | 2   | M3 x 10 BHCS / SHCS & 2 Washers               | To attach the `Depressor Arm` to the base.|
 |     | **OPTIONAL**
-| 4   | M2.5 x 8 FHCS                                 | To mount the hotend for ONLY the UHF options.|
+| 4   | M2.5 x 8 / M2.5 x 12 FHCS                     | To mount the hotend for ONLY the UHF options. 12mm length if you are using the spacer.|
 
 
 ## Printing parts
@@ -80,7 +80,7 @@ These istructions should be followed in conjunction with original <a href="https
 | Install the M2 insert that is chamfered on the bottom into the Extruder Adapter. | <img src='docs/images/m2_adapter.png' width=650><br/> |
 | **Cutter Install** |
 | Before installing, CW2 and Tap users need to install the cowl to the carriage now. |
-| UHF users will need to use `M2.5x8 FHCS` to install the hotend. |
+| UHF users will need to use `M2.5x8/12 FHCS` to install the hotend. |
 | Insert the M3 inserts | <img src='docs/images/m3_inserts.png' width=650><br/> |
 | Insert the M2 insert that is chamfered on the top into the cowl making it flush with the surface. | <img src='docs/images/m2_cowl.png' width=650><br/> |
 | Carefully install the Blade Holder with an `M3x8 BHCS`. You can use thread locker in the brass insert. ⚠⚠ Do not use the brand Loctite if you are printing with ABS, I recommend Vibra-Tite. ⚠⚠ | <img src='docs/images/blade_holder.png' width=650><br/> |
